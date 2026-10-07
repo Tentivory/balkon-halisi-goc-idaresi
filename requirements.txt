@@ -1,0 +1,2 @@
+# Bilerek boş. Halı dış bağımlılık kabul etmez.
+# Kurulum: hiçbir şey kurma. Sonra çalıştır.
